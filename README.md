@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 I'm Yashas
 
-<!--
-**YashasNepalia/YashasNepalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full-Stack Developer  
+🛠️ Tech Stack: JavaScript | Python | Git  
+🌱 Currently Learning: React & Docker  
+🚀 Building cool projects one commit at a time  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 About Me
+- 🎓 I'm passionate about web development and problem-solving  
+- 📚 Always learning and improving through hands-on projects  
+- 👀 Looking to collaborate on beginner-friendly open source projects  
+- ⚡ Fun fact: I love turning coffee ☕ into code!
+
+---
+
+### 📫 How to Reach Me
+- 📧 Email: your-yashasnepalia@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashas-nepalia-6a902b286/)
+
+---
+
+Thanks for stopping by! 😊
